@@ -1,0 +1,1 @@
+accelerate launch --config_file /home/mai-llm-train-service/yql/qwen_tuning/deepspeed_acc.yaml train.py
